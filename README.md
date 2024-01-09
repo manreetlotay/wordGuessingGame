@@ -1,2 +1,2 @@
-# wordGuessingGame
-4-Letters Word Guessing Game
+# 4-Letter Word Guessing Game 
+
